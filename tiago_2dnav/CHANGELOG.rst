@@ -13,6 +13,14 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.2.0 (2024-09-03)
+------------------
+* Merge branch 'man/feat/docking' into 'humble-devel'
+  added docking link
+  See merge request robots/tiago_navigation!115
+* added docking link
+* Contributors: josegarcia, martinaannicelli
+
 4.1.7 (2024-07-19)
 ------------------
 * Merge branch 'fix/aca/laser-frames' into 'humble-devel'
