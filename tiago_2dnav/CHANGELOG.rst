@@ -13,6 +13,30 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.5.0 (2024-10-25)
+------------------
+* Merge branch 'abr/feat/mppi' into 'humble-devel'
+  Use mppi
+  See merge request robots/tiago_navigation!120
+* Use mppi
+* Contributors: antoniobrandi
+
+4.4.0 (2024-10-23)
+------------------
+* Merge branch 'feat/aca/omni-navigation-mppi' into 'humble-devel'
+  Using MPPI
+  See merge request robots/tiago_navigation!119
+* Using MPPI
+* Contributors: andreacapodacqua
+
+4.3.0 (2024-10-17)
+------------------
+* Merge branch 'man/feat/nav-rviz-config' into 'humble-devel'
+  added unless condition to rviz
+  See merge request robots/tiago_navigation!117
+* added unless condition to rviz
+* Contributors: antoniobrandi, martinaannicelli
+
 4.2.0 (2024-09-03)
 ------------------
 * Merge branch 'man/feat/docking' into 'humble-devel'
