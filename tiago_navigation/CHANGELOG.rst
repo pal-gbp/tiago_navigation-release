@@ -2,6 +2,26 @@
 Changelog for package tiago_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.9.0 (2025-02-04)
+------------------
+
+4.8.0 (2025-01-24)
+------------------
+
+4.7.0 (2024-12-02)
+------------------
+
+4.6.1 (2024-11-21)
+------------------
+
+4.6.0 (2024-11-14)
+------------------
+* Merge branch 'abr/feat/nav-params' into 'humble-devel'
+  using new pipeline architecture
+  See merge request robots/tiago_navigation!121
+* using new pipeline architecture
+* Contributors: antoniobrandi
+
 4.5.0 (2024-10-25)
 ------------------
 

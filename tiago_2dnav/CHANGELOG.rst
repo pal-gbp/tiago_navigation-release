@@ -13,6 +13,44 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.9.0 (2025-02-04)
+------------------
+* Merge branch 'abr/fix/public-sim' into 'humble-devel'
+  Update tiago_nav_bringup.launch.py
+  See merge request robots/tiago_navigation!127
+* Update tiago_nav_bringup.launch.py
+* Contributors: antoniobrandi
+
+4.8.0 (2025-01-24)
+------------------
+
+4.7.0 (2024-12-02)
+------------------
+* Merge branch 'abr/feat/deps-and-specs' into 'humble-devel'
+  nav deps and specs
+  See merge request robots/tiago_navigation!125
+* nav deps and specifics
+* fix dep
+* Contributors: andreacapodacqua, antoniobrandi
+
+4.6.1 (2024-11-21)
+------------------
+* Merge branch 'abr/fix/rviz' into 'humble-devel'
+  start rviz with use_sim_time
+  See merge request robots/tiago_navigation!124
+* start rviz with use_sim_time
+* Contributors: antoniobrandi
+
+4.6.0 (2024-11-14)
+------------------
+* Merge branch 'abr/feat/nav-params' into 'humble-devel'
+  using new pipeline architecture
+  See merge request robots/tiago_navigation!121
+* removed advanced_navigation rviz config
+* typo
+* using new pipeline architecture
+* Contributors: antoniobrandi
+
 4.5.0 (2024-10-25)
 ------------------
 * Merge branch 'abr/feat/mppi' into 'humble-devel'
