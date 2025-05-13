@@ -1,2 +1,0 @@
-rgbd:
-  launch: "astra_camera_cfg rgbd.launch.py"
