@@ -13,6 +13,14 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.11.0 (2025-04-08)
+-------------------
+
+4.10.0 (2025-04-03)
+-------------------
+* Adopt pal configuration
+* Contributors: antoniobrandi
+
 4.9.0 (2025-02-04)
 ------------------
 * Merge branch 'abr/fix/public-sim' into 'humble-devel'
