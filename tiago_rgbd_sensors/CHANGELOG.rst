@@ -2,6 +2,11 @@
 Changelog for package tiago_laser_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.12.0 (2025-12-11)
+-------------------
+* Point Cloud filter pipeline
+* Contributors: antoniobrandi
+
 4.11.0 (2025-04-08)
 -------------------
 * fix astra frame name
